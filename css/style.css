@@ -25,3 +25,30 @@ img.my_logo-sony-brand {
 .my_img-logo-return {
     width: 100%;
 }
+
+.btn-primary {
+    background-color: red;
+    border: red;
+    border-radius: 15px;
+}
+
+.my_carousel-img {
+    border-radius: 10px;
+}
+
+
+section.my_carousel  .my_img-carousel-returnal {
+    width: 100%;
+    border-radius: 15px;
+}
+
+section.my_carousel  .my_contain-img-carousel {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+
+section.my_carousel  .my_carousel-img:hover {
+    border: 1px solid blue;section.my_carousel  .my_
+}
