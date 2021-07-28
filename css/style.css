@@ -8,30 +8,20 @@ body {
     background-color: black;
 }
 
-img.logo-sony-brand {
+img.my_logo-sony-brand {
     width: 100px;
 }
 
 #jambotron {
     width: 100%;
     min-height: 650px;
-    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
-    background-position: right;
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center;
     background-size: cover;
+    color:white
 }
 
-.contain {
-    position: relative;
-}
 
-.text-contain {
-    position: absolute;
-    top: 350px;
-    color:white;
-}
-
-.btn-primary {
-    background-color: red;
-    border: red;
-    border-radius: 15px;
+.my_img-logo-return {
+    width: 100%;
 }
