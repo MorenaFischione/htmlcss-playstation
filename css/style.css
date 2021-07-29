@@ -9,12 +9,14 @@ img.my_logo-sony-brand {
 
 
 .my_img-logo-return {
-    width: 100%;
+    width: 70%;
 }
 
-.my_img-logo-take-two {
-    width: 80%;
+
+.my_img-logo-it-take-two {
+    width: 60%;
 }
+
 
 .my_btn-acquista {
     background-color: red;
@@ -53,15 +55,15 @@ div.row  p {
 
 .my_jambotron {
     width: 100%;
-    min-height: 650px;
-    
 }
 
 .my_jambo-return {
     background-image: url(../img/jumbo-bg.png);
     background-position: center;
     background-size: cover;
-    color:white
+    background-repeat: no-repeat;
+    color:white;
+    padding: 200px 0 100px 0;
 }
 
 .my_jambo-takes-two-hero {
@@ -69,8 +71,8 @@ div.row  p {
     background-position: center;
     background-size: cover;
     color:white;
+    padding: 60px 0;
 }
-
 
 div.my_img-ps5 >img {
     width: 100%;
