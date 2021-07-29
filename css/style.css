@@ -130,3 +130,9 @@ div.my_product-item {
 div.my_product-item > img {
     width: 100%;
 }
+
+.my_btn-scopri {
+    background-color: blue;
+    border: blue;
+    border-radius: 15px;
+}
