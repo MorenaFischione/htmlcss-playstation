@@ -147,6 +147,14 @@ div.my_product-item > img {
     color: rgb(80, 80, 245);
 }
 
+.my_img-avengers {
+    width: 100%;
+}
+
+.my_img-avengers > img  {
+    width: 100%;    
+}
+
 div.my_discount {
     width: 100%;
 }
@@ -164,9 +172,23 @@ div.my_discount > img {
     
 }
 
+#playstation-now .my_ps-plus > img {
+    width: 100%;
+}
+
 #playstation-plus p {
     color: black;
 }
+
+.my_btn-ps-now {
+    width: 220px;
+    border-radius: 15px;
+    background-color: rgba(238, 237, 237);
+    border: rgba(238, 237, 237);
+    color: black;
+}
+
+
 
 #branding {
     background-color: black;
@@ -178,6 +200,10 @@ div.my_discount > img {
 
 #playstation-plus {
     background-color: rgb(187, 185, 184);
+}
+
+#playstation-now {
+    background-color: rgb(6, 6, 77);
 }
 
 
