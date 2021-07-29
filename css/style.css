@@ -12,6 +12,10 @@ img.my_logo-sony-brand {
     width: 100%;
 }
 
+.my_img-logo-take-two {
+    width: 80%;
+}
+
 .my_btn-acquista {
     background-color: red;
     border: red;
@@ -47,14 +51,26 @@ div.row  p {
     background-color: black;
 }
 
-#jambotron {
+.my_jambotron {
     width: 100%;
     min-height: 650px;
+    
+}
+
+.my_jambo-return {
     background-image: url(../img/jumbo-bg.png);
     background-position: center;
     background-size: cover;
     color:white
 }
+
+.my_jambo-takes-two-hero {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+    color:white;
+}
+
 
 div.my_img-ps5 >img {
     width: 100%;
@@ -69,8 +85,23 @@ div.my_product >img {
     opacity: .5;
 }
 
+
 div.my_product-active > img{
     width: 100%;
+}
+
+div.my_product-no-act > h5 {
+    opacity: .5;
+}
+
+/* div.my_product > img:hover {
+    opacity: 1;
+    color: black;   
+} */
+
+div.my_product-no-act:hover {
+    opacity: 1;
+    color: rgb(15, 15, 15);   
 }
 
 
