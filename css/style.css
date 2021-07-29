@@ -25,7 +25,7 @@ img.my_logo-sony-brand {
 }
 
 .my_carousel-img {
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 
@@ -37,7 +37,7 @@ section.my_carousel  .my_img-carousel-returnal {
 section.my_carousel  .my_contain-img-carousel {
     height: 100%;
     overflow: hidden;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 
@@ -49,9 +49,6 @@ div.row  p {
    color: grey; 
 }
 
-#branding {
-    background-color: black;
-}
 
 .my_jambotron {
     width: 100%;
@@ -70,6 +67,7 @@ div.row  p {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     color:white;
     padding: 60px 0;
 }
@@ -104,6 +102,23 @@ div.my_product-no-act > h5 {
 div.my_product-no-act:hover {
     opacity: 1;
     color: rgb(15, 15, 15);   
+}
+
+#branding {
+    background-color: black;
+}
+
+#nuove-uscite {
+    background-color: rgb(34, 31, 31);
+}
+
+div.my_game {
+    width: 100%;
+}
+
+div.my_game > img {
+    width: 100%;
+    border-radius: 15px;
 }
 
 
