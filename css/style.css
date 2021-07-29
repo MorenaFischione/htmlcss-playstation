@@ -122,4 +122,11 @@ div.my_game > img {
 }
 
 
+div.my_product-item {
+    width: 100%;
+}
 
+
+div.my_product-item > img {
+    width: 100%;
+}
