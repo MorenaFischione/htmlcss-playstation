@@ -7,6 +7,10 @@ img.my_logo-sony-brand {
     width: 100px;
 }
 
+#nav-bar .my_lens {
+    width: 60%;
+}
+
 
 .my_img-logo-return {
     width: 70%;
@@ -26,6 +30,7 @@ img.my_logo-sony-brand {
 
 .my_carousel-img {
     border-radius: 15px;
+    border: 1px solid transparent;
 }
 
 
