@@ -193,6 +193,28 @@ div.my_logo-social > img {
 
 
 
+#footer img.my_globe-language {
+    width: 20px;
+}
+
+#footer img.my_sie-sony {
+    width: 150px;
+}
+
+#footer ul {
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+#footer li > a {
+    text-decoration: none;
+}
+
+#footer p {
+    font-size: .8em;
+}
+
+
 #branding {
     background-color: black;
 }
@@ -210,8 +232,10 @@ div.my_logo-social > img {
 }
 
 #footer {
-    
+    background-color: rgb(4, 69, 189);
 }
+
+
 
 
 
