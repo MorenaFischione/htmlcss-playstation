@@ -90,6 +90,9 @@ div.my_product >img {
     opacity: .5;
 }
 
+#products .my_border-active {
+    border-bottom: 2px solid blue;
+}
 
 div.my_product-active > img{
     width: 100%;
